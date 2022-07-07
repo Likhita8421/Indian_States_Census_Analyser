@@ -134,7 +134,7 @@ namespace StateCensusTesting
             }
         }
         [Test]
-        public void GivenInvalidHeaderFile_ShouldThrowIncorrectHeaderException()
+        public void GivenInvalidHeaderFileShouldThrowIncorrectHeaderException()
         {
             try
             {
